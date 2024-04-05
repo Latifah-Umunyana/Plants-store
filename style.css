@@ -1,0 +1,121 @@
+
+
+#Green-navbar{
+
+    background-color: rgb(76, 122, 6);
+    color: white;
+    display: flex;
+    gap: 1150px;
+    padding: 20px 70px;
+
+}
+
+#navbar-elements{
+    text-decoration: none;
+    color: black;
+    padding-left: 60px;
+}
+
+#icons{
+    width: 25px;
+    height: 25px;
+    padding-left: 20px;
+}
+
+#navbar{
+    display: flex;
+    gap: 200px;
+    padding: 0px 100px;
+}
+
+#black-navbar{
+    padding-top: 35px;
+    display: flex;
+    gap: 250px;
+}
+
+#first-flower{
+    background-image: url(images/first-vase.webp);
+    width: 800px;
+    height: 600px;
+    padding: 40px;
+
+}
+
+#Terradium-font{
+    font-size: 35px;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+}
+
+#fall-font{
+    font-size: 20px;
+}
+
+#navbar-element{
+    color: greenyellow;
+    text-decoration: none;
+}
+
+#sale{
+    display: flex;
+    gap: 40px;
+padding: 20px 450px;
+}
+
+#first-phase{
+    width: 200px;
+    height: 200px;
+   
+}
+
+#pink-flower{
+    width: 200px;
+    height: 200px;
+padding-left: 10px;
+}
+
+/* #first-flower-phase{
+    text-align: center;
+} */
+
+#phase1-paragraph{
+    display: flex;
+    margin-top: 1px;
+    gap: 40px;
+}
+
+#flowers{
+    /* display: flex; */
+}
+
+#flowers-part1{
+    display: flex;
+    gap: 30px;
+}
+
+#stone-glass{
+    display: flex;
+    padding: 20px 100px;
+}
+
+#stone-glass{
+    width: 600;
+    height: 600px;
+}
+
+#button-shopNow{
+    background-color: greenyellow;
+    color: white;
+    border: 1px solid greenyellow;
+    border-radius: 10px;
+    padding: 15px 40px;
+}
+
+#section{
+    padding-left: 350px;
+}
+
+#Features{
+    text-align: center;
+    padding-top: 200px;
+}
