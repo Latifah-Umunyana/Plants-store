@@ -115,7 +115,110 @@ padding-left: 10px;
     padding-left: 350px;
 }
 
-#Features{
-    text-align: center;
+#produts-featured{
+    /* text-align: center; */
+    padding-left: 550px;
     padding-top: 200px;
+}
+
+#glass{
+    display: flex;
+    gap: 100px;
+    padding-left: 100px;
+}
+
+#living-thing{
+    text-align: center;
+    margin-top: 50px;
+    background-image: url(images/backgr.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+}
+
+/* #flowers-phase{
+    width: 300px;
+    height: 300px;
+} */
+
+.flowers-phase{
+    width: 200px;
+    height: 200px;
+}
+
+#part1{
+    display: flex;
+    gap: 50px;
+}
+
+#part2{
+    display: flex;
+    gap: 50px;
+}
+
+#part3{
+    display: flex;
+    gap: 50px;
+}
+
+#main-flowers-phase{
+ padding-top: 50px;
+}
+
+#cactus{
+    display: flex;
+}
+
+#cactus-4{
+    padding-top: 120px;
+}
+
+#Blog{
+    display: flex;
+gap: 50px;
+padding-top: 50px;
+}
+
+#watch-plant{
+    height: 200px;
+    width: 300px;
+}
+
+#review{
+    width: 170px;
+    height: 170px;
+    border: 1px white solid;
+    border-radius: 40px;
+}
+
+#reviews{
+    width: 100px;
+    height: 100px;
+    border: 1px white solid;
+    border-radius: 30px;
+}
+
+#testimonials{
+ display: flex;
+ gap: 100px;
+/* padding-top: 60px; */
+}
+
+#SUBSCRIBE-button{
+    background-color: greenyellow;
+    color: white;
+    border: 3px solid greenyellow ;
+    padding: 10px 68px;
+}
+
+input{
+    background-color: white;
+    border: 1px solid black;
+    color: grey;
+    padding: 10px 20px;
+}
+
+#footer{
+    display: flex;
+    gap: 30px;
 }
